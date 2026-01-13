@@ -1,6 +1,6 @@
-Veronica Durbin \ 
+Veronica Durbin   
 
-4th Year UGA Undergraduate \ 
+4th Year UGA Undergraduate   
 
 Computer Systems Engineering
 <!---
