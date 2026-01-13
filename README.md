@@ -1,5 +1,7 @@
-Veronica Durbin /n
-4th Year UGA Undergraduate /n
+Veronica Durbin \ 
+
+4th Year UGA Undergraduate \ 
+
 Computer Systems Engineering
 <!---
 verondurb/verondurb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
